@@ -1,4 +1,4 @@
-# AGENT.md — AI4CM Repository
+# AGENTS.md — AI4CM Repository
 
 ## Project Overview
 
@@ -99,3 +99,7 @@ Keep one notebook per topic/model within a lesson folder. If a lesson covers mul
 ```
 
 All notebooks should use the `ai4cm-env` kernel (see [Editor Configuration](#editor-configuration) above).
+
+# Test and verify
+
+After any edit or create a new notebook file, check if the definition is a valid json.
