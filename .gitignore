@@ -1,3 +1,4 @@
 # IDE
 .idea
 .DS_Store
+.env
